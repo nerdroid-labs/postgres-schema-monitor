@@ -1,0 +1,6 @@
+### columns
+GET http://localhost:8080/api/database/public/columns
+
+### indexes
+GET http://localhost:8080/api/database/public/indexes
+
